@@ -13,3 +13,5 @@ Lab tasks for ADS May 2025.
 | 19/6/2025  | 4   | - [Circular Doubly Linked Test](L4/22011479_Riknesh_L4_DoublyCircular.cpp) <br> - [Circular Singly Linked Test](L4/22011479_Riknesh_L4_SinglyCircular.cpp)                |
 | 26/6/2025  | 5   | - [Stack](L5/22011479_Riknesh_L5.cpp)              |
 | 03/7/2025  | 6   | - [Array Queue](L6/22011479_Riknesh_L6_ArrayQueue.cpp) <br> - [Circular Queue](L6/22011479_Riknesh_L6_CircularQueue.cpp) <br> - [Queue](L6/22011479_Riknesh_L6_Queue.cpp)                  |
+| 10/7/2025  | 7   | - [Tree](L7/22011479_Riknesh_L7.cpp)              |
+| 17/7/2025  | 8   | - [Binary Tree](L8/22011479_Riknesh_L8.cpp)              |
